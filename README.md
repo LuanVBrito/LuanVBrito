@@ -38,6 +38,6 @@ Doing DB to improve performance in games
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/LuanVBrito/output/github-contribution-grid-snake.svg">
 </picture>
 ### 🐍 Snake animation
-![Snake animation](https://raw.githubusercontent.com/LuanVBrito/LuanVBrito/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/LuanVBrito/LuanVBrito/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/LuanVBrito/LuanVBrito/output/github-contribution-grid-snake-dark.svg)
 
 
