@@ -1,8 +1,8 @@
 ## Hi there. I'm Luan 👋
 
-📊 Data Analyst - Junior
-📚 InformaTion System at the Federal University of Bahia
-💻 Iproving to become the best Data Scientist
+- 📊 Data Analyst - Junior
+- 📚 InformaTion System at the Federal University of Bahia
+- 💻 Iproving to become the best Data Scientist
 
 Doing DB to improve performance in games
 
