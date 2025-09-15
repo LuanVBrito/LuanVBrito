@@ -37,3 +37,5 @@ Doing DB to improve performance in games
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/LuanVBrito/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/LuanVBrito/output/github-contribution-grid-snake.svg">
 </picture>
+![Snake animation](https://raw.githubusercontent.com/LuanVBrito/<NOME_DO_REPO>/output/github-contribution-grid-snake-dark.svg)
+
