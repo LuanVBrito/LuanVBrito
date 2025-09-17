@@ -11,21 +11,28 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
   <img align="center" alt="DBeaver" height="30" width="40" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png">
 </div>
-  
-<a href="https://github.com/LuanVBrito/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuanVBrito&theme=tokyonight" />
-</a>
-<a href="https://github.com/LuanVBrito/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuanVBrito&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
 
- ##
+## ⚙️ &nbsp;Análise do GitHub
+
+<p align="center">
+<a href="https://github.com/LuanVBrito">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuanVBrito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuanVBrito&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+ ## 
 <div> 
   <a href="https://instagram.com/lu.anbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/loanz1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
