@@ -1,8 +1,9 @@
 ## Hi there. I'm Luan 👋
 
-- 📊 Data Analyst - Junior
-- 📚 InformaTion System at the Federal University of Bahia
-- 💻 Iproving to become the best Data Scientist
+- 📊 Analista de Dados & Engenheiro de Dados - Junior
+- 📚 Sistema de Informação na Universidade Federal da Bahia
+- 💻 Melhorando a cada dia para me tornar um excelente cientista de dados
+- 🖥️ Utilizando diariamente Pyton e SQL
 
 Doing DB to improve performance in games
 
