@@ -3,7 +3,7 @@
 
 - 📊 Analista de Dados & Engenheiro de Dados - Junior
 - 📚 Sistema de Informação na Universidade Federal da Bahia
-- 💻 Melhorando a cada dia para me tornar um excelente cientista de dados
+- 💻 Melhorando a cada dia para me tornar um excelente engenheiro de dados
 - 🖥️ Utilizando diariamente Pyton e SQL
 
 ## 🛠  Ferramentas
