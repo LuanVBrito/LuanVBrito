@@ -5,7 +5,6 @@
 - 💻 Melhorando a cada dia para me tornar um excelente cientista de dados
 - 🖥️ Utilizando diariamente Pyton e SQL
 
-Doing DB to improve performance in games
 
 <div style="display: inline_block"><br>
   
