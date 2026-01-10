@@ -1,10 +1,10 @@
 ## Hi there. I'm Luan 👋
 ## 👨🏻‍💻 Sobre mim
 
-- 📊 Analista de Dados & Engenheiro de Dados - Junior
+- 📊 Engenheiro de Software - Junior
 - 📚 Sistema de Informação na Universidade Federal da Bahia
-- 💻 Melhorando a cada dia para me tornar um excelente engenheiro de dados
-- 🖥️ Utilizando diariamente Pyton e SQL
+- 💻 Melhorando a cada dia para me tornar um excelente engenheiro de software
+- 🖥️ Utilizando diariamente C# | SQL | Next.Js | Reat
 
 ## 🛠  Ferramentas
 
