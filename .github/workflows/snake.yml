@@ -4,19 +4,20 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LuanVBrito
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
