@@ -4,7 +4,7 @@
 - 📊 Engenheiro de Software - Junior
 - 📚 Sistema de Informação na Universidade Federal da Bahia
 - 💻 Melhorando a cada dia para me tornar um excelente engenheiro de software
-- 🖥️ Utilizando diariamente C# | SQL | Next.Js | Reat
+- 🖥️ Utilizando diariamente C# | SQL | Next.Js | React
 
 ## 🛠  Ferramentas
 
